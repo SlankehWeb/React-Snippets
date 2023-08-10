@@ -1,11 +1,12 @@
 import logo from './logo.svg';
 import './App.css';
-import Navbar1 from './compenents/responsive-navbar-1';
+import Footer from './components/footer';
+
 
 function App() {
   return (
     <div className="App">
-      <Navbar1 />
+      <Footer />
     </div>
   );
 }
