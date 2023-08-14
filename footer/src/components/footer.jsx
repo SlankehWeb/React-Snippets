@@ -29,28 +29,28 @@ return (
 		<Column>
 			<Heading>Social Media</Heading>
 			<FooterLink href="#">
-			<i className="fab fa-facebook-f">
+			<i className="facebook">
 				<span style={{ marginLeft: "10px" }}>
 				Facebook
 				</span>
 			</i>
 			</FooterLink>
 			<FooterLink href="#">
-			<i className="fab fa-instagram">
+			<i className="instagram">
 				<span style={{ marginLeft: "10px" }}>
 				Instagram
 				</span>
 			</i>
 			</FooterLink>
 			<FooterLink href="#">
-			<i className="fab fa-twitter">
+			<i className="twitter">
 				<span style={{ marginLeft: "10px" }}>
 				Twitter
 				</span>
 			</i>
 			</FooterLink>
 			<FooterLink href="#">
-			<i className="fab fa-youtube">
+			<i className="youtube">
 				<span style={{ marginLeft: "10px" }}>
 				Youtube
 				</span>
